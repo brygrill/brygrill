@@ -2,7 +2,7 @@
 
 # Bryan Grill
 
-Web Developer | React | TypeScript | Learning Rust 
+Web Developer | React | TypeScript | Fintech | Learning Rust 
 
 <!--
 **brygrill/brygrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
