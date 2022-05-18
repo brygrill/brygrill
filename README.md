@@ -2,4 +2,4 @@
 
 # Bryan Grill
 
-Software Developer | TypeScript | React | NodeJS
+Software Engineer | TypeScript | React | NodeJS
